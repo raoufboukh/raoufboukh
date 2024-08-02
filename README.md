@@ -60,8 +60,13 @@ ___
 <h2 align='center'>Stats</h2>
 <br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=raoufboukh&theme=react)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raoufboukh&theme=react&show_icons=true)
+  <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=raoufboukh&theme=react)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raoufboukh&theme=react&show_icons=true)-->
+
+<div align='center'>
+  <img width='390px' src='https://streak-stats.demolab.com/?user=raoufboukh&theme=react&border_radius=10'>
+  <img width='390px' src='https://github-readme-stats.vercel.app/api?username=raoufboukh&theme=react&show_icons=true&border_radius=10'>  
+</div>
   <br/>
 
 <!--
