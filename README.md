@@ -64,6 +64,7 @@ ___
 <div align='center'>
   <img width='390px' src='https://streak-stats.demolab.com/?user=raoufboukh&theme=react&border_radius=10'>
   <img width='390px' src='https://github-readme-stats.vercel.app/api?username=raoufboukh&theme=react&show_icons=true&border_radius=10'>  
+  <img width='390px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufboukh&theme=react&border_radius=10&layout=compact" align="center" />
 </div>
   <br/>
 
