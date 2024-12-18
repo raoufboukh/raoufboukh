@@ -13,7 +13,7 @@
 - **HTML5**: Semantic markup, accessibility, and modern HTML techniques.
 - **CSS3**: Responsive design, Flexbox, Grid, animations, and pre-processors.
 - **JavaScript**: ES6+, DOM manipulation, AJAX, and working with APIs.
-- **Frameworks & Libraries**: React.js (basic knowledge), Express.js.
+- **Frameworks & Libraries**: React.js (basic knowledge),Redux and Express.js.
 - **Databases**: MongoDB.
 - **Tools**: Git
 - **Design**: Basic knowledge of design principles, Photoshop, and Figma.
@@ -40,7 +40,7 @@ ___
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,typescript,c,java,bootstrap,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,javascript,typescript,c,java,bootstrap,nodejs,express,mongodb" />
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,vite,git,markdown,npm" />
 </div>
 <br>
